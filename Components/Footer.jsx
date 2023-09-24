@@ -14,6 +14,10 @@ const Footer = () => {
         <FontAwesomeIcon icon={faPhone} className='mr-2 text-gw'/>
         Số điện thoại :<span> 0914939120</span>
       </p>
+      <p>
+        <FontAwesomeIcon icon={faPhone} className='mr-2 text-gw'/>
+        Số điện thoại :<span> 0914939120</span>
+      </p>
     </div>
   )
 }
